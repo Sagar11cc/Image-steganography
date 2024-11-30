@@ -11,12 +11,12 @@ Features
 
 1. **Extract Image:**
    <p align="center">
-      <img src="./screenshots/Extracttext.jpeg" alt="Hide Image">
+      <img src="./screenshots/Extracttext.png" alt="Hide Image">
    </p>
 
 2. **Hide Image:**
    <p align="center">
-      <img src="./screenshots/Hidetext.jpeg" alt="Altering Threshold">
+      <img src="./screenshots/Hidetext.png" alt="Altering Threshold">
    </p>
 
 3. **Login:**
