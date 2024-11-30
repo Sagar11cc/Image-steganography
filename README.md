@@ -7,8 +7,9 @@ Features
 * Efficient Algorithms: Uses the LSB technique to minimize visual and data distortion.
 * #### GUI Screenshots
 
-1. Extract Image: ![Hide Image](./screenshots/Extracttext.png)
-2. Hide Image: ![Altering Threshold](./screenshots/Hidetext.png)
+1. Extract Image: ![Hide Image](./screenshots/Extracttext.jpeg)
+2. Hide Image: ![Altering Threshold](./screenshots/Hidetext.jpeg)
 3. Login: ![Extracting Metadata](./screenshots/Login.png)
 4. SignUp: ![PNG Check](./screenshots/Signup.png)
-5. Change Password: ![PNG Check](./screenshots/Change password.png)
+5. Change password: ![PNG Check](./screenshots/Change password.png)
+
