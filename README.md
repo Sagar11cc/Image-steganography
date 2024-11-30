@@ -11,6 +11,6 @@ Features
 2. Hide Image: ![Altering Threshold](./screenshots/Hidetext.jpeg)
 3. Login: ![Extracting Metadata](./screenshots/Login.png)
 4. SignUp: ![PNG Check](./screenshots/Signup.png)
-5.![Change Password](./screenshots/Change_password.png)
+5. Change passsword: ![PNG Check](./screenshots/Change_password.png)
 
 
